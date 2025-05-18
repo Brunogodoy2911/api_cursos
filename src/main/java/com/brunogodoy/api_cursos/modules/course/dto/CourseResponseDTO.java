@@ -1,4 +1,4 @@
-package com.brunogodoy.api_cursos.modules.task.dto;
+package com.brunogodoy.api_cursos.modules.course.dto;
 
 import java.util.UUID;
 

@@ -1,11 +1,11 @@
-package com.brunogodoy.api_cursos.modules.task.useCases;
+package com.brunogodoy.api_cursos.modules.course.useCases;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.brunogodoy.api_cursos.modules.task.CourseEntity;
-import com.brunogodoy.api_cursos.modules.task.CourseRepository;
-import com.brunogodoy.api_cursos.modules.task.exceptions.CourseFoundException;
+import com.brunogodoy.api_cursos.modules.course.CourseEntity;
+import com.brunogodoy.api_cursos.modules.course.CourseRepository;
+import com.brunogodoy.api_cursos.modules.course.exceptions.CourseFoundException;
 
 @Service
 public class CreateCourseUseCase {
