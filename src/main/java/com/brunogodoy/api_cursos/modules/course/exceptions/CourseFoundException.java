@@ -1,4 +1,4 @@
-package com.brunogodoy.api_cursos.modules.task.exceptions;
+package com.brunogodoy.api_cursos.modules.course.exceptions;
 
 public class CourseFoundException extends RuntimeException {
   private static final long serialVersionUID = 1L;
